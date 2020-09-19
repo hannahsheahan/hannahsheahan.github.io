@@ -8,7 +8,7 @@ author_profile: true
 
 Contact
 ======
-Want to get in touch? When I'm in Oxford I tend to hang around the Department of Experimental Psychology, or [Wadham College](https://www.wadham.ox.ac.uk/people/fellows-and-academic-staff/s/hannah-sheahan).
+Want to get in touch? When I'm in Oxford I'm usually hanging around with the Summerfield Lab](https://humaninformationprocessing.com/) in the Department of Experimental Psychology. If I'm not doing that I'm probably organising talks/events for students and fellows at [Wadham College](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics like climate change, British politics, Oxford's uncomfortable colonial history, or the intersection of psychology and AI. Outside Oxford I'm either running or doing Londony things in London. You can catch me at any of these places.
 
 Email
 ------
