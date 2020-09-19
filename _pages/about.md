@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 What I am keen on.
-======
+------
 An example
 
-Some stuff I'm keen on
-======
+Some more stuff I'm keen on
+------
 Lalala la la
 
-======
+
 some stuff goes in here
 
 Create content & metadata

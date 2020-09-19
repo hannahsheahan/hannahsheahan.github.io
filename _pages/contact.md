@@ -4,21 +4,24 @@ title: "Get in touch"
 permalink: /contact/
 author_profile: true
 ---
+Send me an email:
+<br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
 
+## Oxford
+In Oxford I usually hang around with the [Summerfield Lab](https://humaninformationprocessing.com/).
 
-Contact
-======
-Want to get in touch? When I'm in Oxford I'm usually hanging around with the Summerfield Lab](https://humaninformationprocessing.com/) in the Department of Experimental Psychology. If I'm not doing that I'm probably organising talks/events for students and fellows at [Wadham College](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics like climate change, British politics, Oxford's uncomfortable colonial history, or the intersection of psychology and AI. Outside Oxford I'm either running or doing Londony things in London. You can catch me at any of these places.
+If you can't find me there, I'm probably organising [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) at [Wadham College](https://www.wadham.ox.ac.uk/) on topics like climate change, Oxford's uncomfortable colonial past, or the intersection of psychology and AI.
 
-Email
+## London
+The rest of my time is spent in London.
+
 ------
-sheahan.hannah@gmail.com
-
-------
-Department of Experimental Psychology
-University of Oxford
-New Radcliffe House
+<address>
+Department of Experimental Psychology<br />
+University of Oxford<br />
+New Radcliffe House<br />
 Walton St, Oxford OX2 6BW
+</address>
 
 <div class="container-fluid">
 	<div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
