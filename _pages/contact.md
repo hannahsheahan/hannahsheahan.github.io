@@ -11,9 +11,10 @@ Contact
 Want to get in touch? When I'm in Oxford I tend to hang around the Department of Experimental Psychology, or [Wadham College](https://www.wadham.ox.ac.uk/people/fellows-and-academic-staff/s/hannah-sheahan).
 
 Email
-======
+------
 sheahan.hannah@gmail.com
 
+------
 Department of Experimental Psychology
 University of Oxford
 New Radcliffe House
