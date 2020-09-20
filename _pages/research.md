@@ -10,6 +10,7 @@ redirect_from:
 
 
 ### I research how humans and neural networks learn stuff.
+### I also build models and Unity environments for fun.
 
 
 Research
@@ -24,6 +25,7 @@ What principles underlie learning in neural network models and how can we unders
 ### Motor learning & control
 How do we humans learn and adapt our movements as we experience the world? And how do we learn and parcellate lots of different motor skills, without overwriting others? Here's [a cute video](https://zuckermaninstitute.columbia.edu/brain-science-baseball) illustrating some of my PhD work on this topic with Daniel Wolpert (then at Cambridge University).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWaUyTiukKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Engineering
 ------
