@@ -8,17 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-What I am keen on.
+
+#### I research how humans and neural networks learn stuff.
+
+
+Research
 ------
-An example
 
-Some more stuff I'm keen on
+### Learning relational structure
+Psychologists use the term 'structure learning' to describe how humans learn invariances over relational patterns in data. For example, the concept we call *magnitude* describes a structure that relates stimuli to each other along a single dimension. Abstracting the relationships between stimuli across contexts permits new inferences, such as knowing that both cheetahs and space rockets move 'fast', even though animals and vehicles belong in different semantic categories, do not look alike and move at different absolute speeds. How do humans and neural networks learn abstract knowledge of simple relational structures like magnitude? How does action impact or afford the learning of spatial or more abstract relations?
+
+### Learning theory
+What principles underlie learning in neural network models and how can we understand them? What makes some things easy to learn and other things hard? Can we predict learning dynamics? Can these tools enable us to predict the geometry of neural representations in animals performing different tasks?
+
+### Motor learning & control
+How do we humans learn and adapt our movements as we experience the world? And how do we learn and parcellate lots of different motor skills, without overwriting others?
+
+
+Engineering
 ------
-Lalala la la
 
-
-some stuff goes in here
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I studied engineering as an undergraduate and it imprinted on me. Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) and automating [things](https://github.com/hannahsheahan).
