@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Hey there!"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 
-#### I research how humans and neural networks learn stuff.
+### I research how humans and neural networks learn stuff.
 
 
 Research
@@ -28,4 +28,4 @@ How do we humans learn and adapt our movements as we experience the world? And h
 Engineering
 ------
 
-I studied engineering as an undergraduate and it imprinted on me. Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) and automating [things](https://github.com/hannahsheahan).
+I studied engineering as an undergraduate and it imprinted on me. Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) and [automating things](https://github.com/hannahsheahan).
