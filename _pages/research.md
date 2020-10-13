@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: " "
-excerpt: "About me"
+title: ""
+#excerpt: "About me"
 author_profile: true
 redirect_from:
   - /research/
   - /research.html
 ---
-
 
 ### I research how humans and neural networks learn stuff.
 ### I also build models and Unity environments for fun.
