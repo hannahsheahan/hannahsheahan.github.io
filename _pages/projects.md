@@ -4,13 +4,18 @@ permalink: /projects/
 author_profile: true
 ---
 
+This page is currently under development.
+
+## [Number lines (2020)](https://github.com/hannahsheahan/context_magnitude)
+
+Description under development...
 
 ## [Learning Planet Taxonomies (2019)](https://github.com/hannahsheahan/HCategoryLearn)
 As kids, humans learn that the similarity between objects (e.g. plants or animals) often map onto hierarchical structures. For example, as adults we know that canaries and ravens are both types of birds, and so are likely to have more features in common with each other than with a donkey, which is not a bird. How does knowledge of these semantic relationships develop in humans and deep networks? Saxe et al ([2019](https://www.pnas.org/content/116/23/11537)) has a decent answer for deep linear networks, so we set about trying to test some of these emergent theories in humans.
 
 Starting with [Sebastian Lague's](https://github.com/SebLague/Procedural-Planets) repo for procedural 3D object generation in Unity, I built a planet taxonomy generator which creates arbitrarily many unique planets for perceptual learning studies, by sampling across a hierarchy of continuously valued perceptual features.
 
-Here's a fun video of some of me varying some of these wobbly textures (astronomers, forgive me):
+Here's a fun video of some of me varying some of these wobbly textures (astronomers, forgive me).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwhLnh4Tuvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -31,7 +36,16 @@ The experimental component of this project is underway with the help of Yinan Ca
 
 ## [Four Rooms (2019)](https://github.com/hannahsheahan/FourRooms2D)
 
-Under development...
+Description under development...
+
+## [Factorising Grid Cells (2019)](https://github.com/hannahsheahan/gridSimulations)
+
+Description under development...
+
+
+## [Uniturk (2018)](https://github.com/hannahsheahan/UniturkNav)
+
+Description under development...
 
 {% include base_path %}
 
