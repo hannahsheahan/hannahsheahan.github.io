@@ -8,8 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-### I research how humans and neural networks learn stuff.
-### I also build models and Unity environments for fun.
+I research how humans and neural networks learn stuff. I also build models and Unity environments for fun :) 
 
 
 Research
