@@ -10,6 +10,9 @@ This page is currently under development.
 
 Description under development...
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AnkExL8_so" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## [Learning Planet Taxonomies (2019)](https://github.com/hannahsheahan/HCategoryLearn)
 As kids, humans learn that the similarity between objects (e.g. plants or animals) often map onto hierarchical structures. For example, as adults we know that canaries and ravens are both types of birds, and so are likely to have more features in common with each other than with a donkey, which is not a bird. How does knowledge of these semantic relationships develop in humans and deep networks? Saxe et al ([2019](https://www.pnas.org/content/116/23/11537)) has a decent answer for deep linear networks, so we set about trying to test some of these emergent theories in humans. Starting with [Sebastian Lague's](https://github.com/SebLague/Procedural-Planets) repo for procedural 3D object generation in Unity, I built a planet taxonomy generator which creates arbitrarily many unique planets for perceptual learning studies, by sampling across a hierarchy of continuously valued perceptual features.
 
@@ -31,10 +34,10 @@ To give us a more complex hierarchy I built in a few new traits...
 
 ## [Four Rooms (2019)](https://github.com/hannahsheahan/FourRooms2D)
 
-Here's an example trial from a learning experiment I designed (together with Chris Summerfield) and built in which human players have to search for particular rewards, like cheese or martinis, across four rooms. Participants have to take turns with an artificial agent when they are searching, so the game is not as straightforward as it looks!
-With practice players learn that different reward types covary in their locations across the rooms, and players can use this to maximize their points.
+Here's an example trial from a learning experiment I designed (with Chris Summerfield) and built in which human players have to search for particular rewards, like cheese or martinis. Human players have to take turns with an artificial agent when they are searching, so playing this game is not as straightforward as it looks!
+With practice, players learn that there are patterns to where different reward types are likely to be found, and players can use these rules to find the rewards faster (and get more points!).
 
-We have a behavioural dataset of people playing this game from all over the world (via Amazon mturk) as well as a massive neural dataset in which people playing this game in an fMRI machine. We're currently analysing the neural data (with Paul Muhle-Karbe) to understand a bit more about how the brain can learn and implement abstract rules.
+I collected a large behavioural dataset of people playing this game from all over the world (via Amazon mturk) as well as a neural dataset in which people played this game in an fMRI machine. We're currently analysing the neural data (with Paul Muhle-Karbe) to understand a bit more about how the brain can learn and implement abstract spatial rules.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KNKnbZFj1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
