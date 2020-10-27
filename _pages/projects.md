@@ -36,8 +36,10 @@ The experimental component of this project is underway with the help of Yinan Ca
 
 ## [Four Rooms (2019)](https://github.com/hannahsheahan/FourRooms2D)
 
-Here's an example trial from a learning experiment I designed (together with Chris Summerfield) and built in which human players have to search for particular rewards, like cheese or martinis, across four rooms. Participants have to take turns with an artificial agent when they are searching, so its not as straightforward as it looks! With practice players learn that different reward types covary in their locations across the rooms, and can use this to maximize their points.
-We have a massive neural dataset with people playing this game in an fMRI machine, which we're analysing to understand a bit more about how the brain can learn and implement abstract rules.
+Here's an example trial from a learning experiment I designed (together with Chris Summerfield) and built in which human players have to search for particular rewards, like cheese or martinis, across four rooms. Participants have to take turns with an artificial agent when they are searching, so the game is not as straightforward as it looks!
+With practice players learn that different reward types covary in their locations across the rooms, and players can use this to maximize their points.
+
+We have a behavioural dataset of people playing this game from all over the world (via Amazon mturk) as well as a massive neural dataset in which people playing this game in an fMRI machine. We're currently analysing the neural data (with Paul Muhle-Karbe) to understand a bit more about how the brain can learn and implement abstract rules.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KNKnbZFj1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
