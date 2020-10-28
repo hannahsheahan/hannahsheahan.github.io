@@ -8,8 +8,9 @@ This page is currently under development.
 
 ## [Number lines (2020)](https://github.com/hannahsheahan/context_magnitude)
 
-Description under development...
+Humans can think and reason in ways that abstract over the physical properties of the world. For example, we understand that cheetahs and space rockets can both move “fast” even though animals and vehicles belong in different semantic categories and do not look alike. Learning abstract concepts such as "fast" can be challenging when relational patterns (such as relative speed) are shared across contexts but exist on different physical scales. Here, we trained humans (thanks to the wonderful Fabrice Luyckx) and recurrent neural networks to perform a magnitude comparison task, for which it was advantageous to generalise concepts of “more” or “less” between contexts. We analysed human brain signals and RNN hidden unit activity and observed that both systems developed parallel neural “number lines” for each context. In both model systems, these number state spaces were aligned in a way that explicitly facilitated generalisation of relational concepts (more and less).
 
+Here's an example of the activations learned by some of our RNNs.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AnkExL8_so" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -41,12 +42,12 @@ I collected a large behavioural dataset of people playing this game from all ove
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KNKnbZFj1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [Factorising Grid Cells (2019)](https://github.com/hannahsheahan/gridSimulations)
+## [Factorising Grid Codes (2019)](https://github.com/hannahsheahan/gridSimulations)
 
 Description under development...
 
 
-## [Uniturk (2018)](https://github.com/hannahsheahan/UniturkNav)
+## [Uniturk (2019)](https://github.com/hannahsheahan/UniturkNav)
 
 Description under development...
 
