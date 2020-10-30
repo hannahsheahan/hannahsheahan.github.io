@@ -4,16 +4,16 @@ title: "Get in touch"
 permalink: /contact/
 author_profile: true
 ---
-Send me an email:
-<br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
-
-## Oxford
-In Oxford I usually hang around with the [Summerfield Lab](https://humaninformationprocessing.com/).
-
-If you can't find me there, I'm probably organising [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) at [Wadham College](https://www.wadham.ox.ac.uk/) on topics like climate change, Oxford's uncomfortable colonial past, or the intersection of psychology and AI.
+Send me an email <br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
 
 ## London
-The rest of my time is spent in London.
+I live and (due to the pandemic) work remotely from London.
+
+## Oxford
+Pre-pandemic I also spent a lot of time in Oxford with the [Summerfield Lab](https://humaninformationprocessing.com/).
+
+I'm also a Research Associate of [Wadham College](https://www.wadham.ox.ac.uk/), where I organise [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics I care about like climate change, Oxford's uncomfortable colonial past, or the intersection of psychology and AI.
+
 
 ------
 <address>
