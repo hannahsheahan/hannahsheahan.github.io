@@ -4,8 +4,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-This page is currently under development.
-
 ## [Number lines (2020)](https://github.com/hannahsheahan/context_magnitude)
 
 Humans can think and reason in ways that abstract over the physical properties of the world. For example, we understand that cheetahs and space rockets can both move “fast” even though animals and vehicles belong in different semantic categories and do not look alike. Learning abstract concepts such as "fast" can be challenging when relational patterns (such as relative speed) are shared across contexts but exist on different physical scales. Here, we trained humans (thanks to the wonderful Fabrice Luyckx) and recurrent neural networks to perform a magnitude comparison task, for which it was advantageous to generalise concepts of “more” or “less” between contexts. We analysed human brain signals and RNN hidden unit activity and observed that both systems developed parallel neural “number lines” for each context. In both model systems, these number state spaces were aligned in a way that explicitly facilitated generalisation of relational concepts (more and less).
