@@ -7,7 +7,7 @@ author_profile: true
 Send me an email <br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
 
 ## London
-I live and (due to the pandemic) work remotely from London.
+I live in and work remotely from London (due to the pandemic).
 
 ## Oxford
 Pre-pandemic I also spent a lot of time in Oxford with the [Summerfield Lab](https://humaninformationprocessing.com/).
