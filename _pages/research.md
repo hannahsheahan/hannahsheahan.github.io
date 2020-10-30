@@ -8,7 +8,9 @@ redirect_from:
   - /research.html
 ---
 
-I research how humans and neural networks learn stuff. I also build models and Unity environments for fun :) 
+I am currently a Postdoc at the University of Oxford. I am interested in embodied learning, generalisation and the effects of context and task structure on learning in humans and neural network models.
+
+I completed my PhD at the Computational and Biological Learning Lab at the University of Cambridge. Prior to that I did my undergrad in engineering (mix of mechanical, software, electrical), and still enjoy building models and Unity environments for fun.
 
 
 Research
