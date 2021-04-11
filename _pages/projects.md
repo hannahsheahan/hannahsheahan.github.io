@@ -40,17 +40,8 @@ I collected a large behavioural dataset of people playing this game from all ove
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KNKnbZFj1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [Factorising Grid Codes (2019)](https://github.com/hannahsheahan/gridSimulations)
-
-Description under development...
-
-
-## [Uniturk (2019)](https://github.com/hannahsheahan/UniturkNav)
-
-Description under development...
 
 {% include base_path %}
-
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}

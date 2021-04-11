@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2020
 
-**Sheahan, H.***, Luyckx, F.*, Nelli, S., Teupe, C., & Summerfield C. (2020), Neural state space alignment for magnitude generalization in humans and recurrent networks. _biorXiv preprint_ [PDF](/papers/2020SheahanLuyckx.pdf)
+**Sheahan, H.***, Luyckx, F.*, Nelli, S., Teupe, C., & Summerfield C. (2020), Neural state space alignment for magnitude generalization in humans and recurrent networks. _Neuron_ [PDF](/papers/2020SheahanLuyckx.pdf)
 
 Summerfield, C., Luyckx, F., & **Sheahan, H.** (2020), Structure learning and the posterior parietal cortex. _Progress in Neurobiology_. 184 [PDF](/papers/2020Summerfield.pdf)
 

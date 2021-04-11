@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-I am currently a Postdoc at the University of Oxford. I am interested in embodied learning, generalisation and the effects of context and task structure on learning in humans and neural network models.
+I am currently a Postdoc at the University of Oxford. In June 2021 I will be starting as a Research Engineer at [DeepMind](http://deepmind.com) in London. I am interested in embodied learning, generalisation and the effects of context and task structure on learning in humans and neural network models.
 
 I completed my PhD at the [Computational and Biological Learning Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge. Prior to that I did my undergrad in engineering (mix of mechanical, software, electrical), and still enjoy building models and Unity environments for fun.
 
