@@ -28,8 +28,3 @@ What principles underlie learning in neural network models and how can we unders
 How do we humans learn and adapt our movements as we experience the world? And how do we learn and parcellate lots of different motor skills, without overwriting others? Here's [a cute video](https://zuckermaninstitute.columbia.edu/brain-science-baseball) illustrating some of my PhD work on this topic with Daniel Wolpert (then at Cambridge University).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QWaUyTiukKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Engineering
-------
-
-Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) for science experiments in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) that interact with humans, and generally [automating boring things](https://github.com/hannahsheahan).
