@@ -5,19 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2020
-<pre>
-.post-title {
-  font-size: 20px;
+### 2021
 **Sheahan, H.***, Luyckx, F.*, Nelli, S., Teupe, C., & Summerfield C. (2021), Neural state space alignment for magnitude generalization in humans and recurrent networks. _Neuron_. 109 (7), 1214-1226 [PDF](/papers/2020SheahanLuyckx.pdf)
 
 Albert, S., Jang, J., **Sheahan, HR.**, Teunissen, L., Vandevoorde, K., & Shadmehr, R. (2021), An
 implicit memory of errors limits human sensorimotor adaptation. _Nature Human Behaviour_. https://doi.org/10.1038/s41562-020-01036-x [PDF](/papers/2020Albert.pdf)
 
+### 2020
 Summerfield, C., Luyckx, F., & **Sheahan, H.** (2020), Structure learning and the posterior parietal cortex. _Progress in Neurobiology_. 184 [PDF](/papers/2020Summerfield.pdf)
-}
-</pre>
-
 
 ### 2019
 
