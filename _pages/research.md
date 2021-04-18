@@ -30,4 +30,4 @@ How do we humans learn and adapt our movements as we experience the world? And h
 Engineering
 ------
 
-I studied engineering as an undergraduate and it imprinted on me. Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) and [automating things](https://github.com/hannahsheahan).
+Alongside research, I enjoy building [environments](https://hannahsheahan.github.io/projects/) for science experiments in Unity, programming [robots](https://www.youtube.com/watch?v=AeJP9AW-KNg) that interact with humans, and generally [automating boring things](https://github.com/hannahsheahan).
