@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Get in touch"
-permalink: /contact/
+permalink: /oldcontact/
 author_profile: true
 ---
 Send me an email <br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
@@ -10,7 +10,7 @@ Send me an email <br /><a href="mailto:#">sheahan.hannah@gmail.com</a>
 I mostly live in and work from London.
 
 ## Oxford
-Pre-pandemic I also spent a lot of time in Oxford with the [Summerfield Lab](https://humaninformationprocessing.com/).
+Pre-pandemic I spent a lot of time in Oxford with the [Summerfield Lab](https://humaninformationprocessing.com/).
 I'm also a Research Associate of [Wadham College](https://www.wadham.ox.ac.uk/), where I organise [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics I care about like climate change, Oxford's uncomfortable colonial past, and the intersection of psychology and AI.
 
 
