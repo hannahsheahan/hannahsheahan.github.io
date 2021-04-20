@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Postdoc at the University of Oxford. In June 2021 I will be starting as a Research Engineer at [DeepMind](http://deepmind.com) in London. I am interested in embodied learning, generalisation and the effects of context and task structure on learning in humans and neural network models.
 
-On the side, I'm also a Research Associate of [Wadham College](https://www.wadham.ox.ac.uk/), where I organise [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics I care about like climate change, Oxford's uncomfortable colonial past, and the intersection of psychology and AI. I did my PhD at the [Computational and Biological Learning Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge. Prior to that I did an undergraduate degree in engineering.
+On the side, I'm also a Research Associate of [Wadham College](https://www.wadham.ox.ac.uk/), where I organise [talks](https://www.wadham.ox.ac.uk/about-wadham/wadhams-people/research-associates) on topics I care about like climate change, Oxford's uncomfortable colonial past, and the intersection of psychology and AI. I did my PhD at the [Computational and Biological Learning Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge. Prior to that I did an undergraduate degree in engineering in New Zealand.
 
 
 Research
