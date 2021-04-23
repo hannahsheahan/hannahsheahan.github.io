@@ -16,7 +16,7 @@ On the side, I'm also a Research Associate of [Wadham College](https://www.wadha
 Research
 ------
 
-### Learning relational structure
+### Relational structures and abstraction
 Psychologists use the term 'structure learning' to describe how humans learn invariances over relational patterns in data. For example, the concept we call *magnitude* describes a structure that relates stimuli to each other along a single dimension. Abstracting the relationships between stimuli across contexts permits new inferences, such as knowing that both cheetahs and space rockets move 'fast', even though animals and vehicles belong in different semantic categories, do not look alike and move at different speeds. How do humans and neural networks learn abstract knowledge of simple relational structures like magnitude? How does action impact or afford the learning of spatial or more abstract relations between things? I've been trying to answer some of these questions with [Chris Summerfield](https://www.psy.ox.ac.uk/team/christopher-summerfield) at Oxford University. [Here](https://www.youtube.com/watch?v=c6FNHgxBbYI&feature=youtu.be) is a short 3 minute talk from the 2021 Oxford Neuroscience Symposium where I talk about some of this work, and [here](https://www.nature.com/articles/s41583-021-00458-4?WT.mc_id=TWT_NatRevNeurosci) is a highlight that Nature Reviews Neuroscience kindly wrote about our paper.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6FNHgxBbYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
