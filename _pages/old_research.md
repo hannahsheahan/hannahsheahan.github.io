@@ -4,8 +4,8 @@ title: ""
 #excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /research/
-  - /research.html
+  - /old_research/
+  - /old_research.html
 ---
 
 I am currently a Postdoc at the University of Oxford. In June 2021 I will be starting as a Research Engineer at [DeepMind](http://deepmind.com) in London. I am interested in embodied learning, generalisation and the effects of context and task structure on learning in humans and neural network models.
