@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Muhle-Karbe, P.*, **Sheahan, H.**\*, Pezzulo, G., Spiers, H., Chien, S., Schuck, NW.*, Summerfield C.* (2023), Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex. _Neuron_ [PDF](https://www.biorxiv.org/content/10.1101/2023.01.12.523762v3.full.pdf)
+Muhle-Karbe, P.\*, **Sheahan, H.**\*, Pezzulo, G., Spiers, H., Chien, S., Schuck, NW.\*, Summerfield C.\* (2023), Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex. _Neuron_ [PDF](https://www.biorxiv.org/content/10.1101/2023.01.12.523762v3.full.pdf)
 
-Bakker, M.*, Chadwick, M.*, **Sheahan, H.**\*, Tessler, MH., Campbell-Gillingham L., Balaguer, J., McAleese, N., Glaese, A., Aslanides J., Botvinick M., Summerfield. C. (2022), Fine-tuning language models to find agreement among humans with diverse preferences. _NeurIPS_. [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
+Bakker, M.\*, Chadwick, M.\*, **Sheahan, H.**\*, Tessler, MH., Campbell-Gillingham L., Balaguer, J., McAleese, N., Glaese, A., Aslanides J., Botvinick M., Summerfield. C. (2022), Fine-tuning language models to find agreement among humans with diverse preferences. _NeurIPS_. [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
 
 Bondi, L., Koster, R., **Sheahan, H.**, Chadwick, M., Bachrach, Y., Cemgil, T., Paquet U., Dvijotham, K. (2022), Role of human-ai interaction in selective prediction. _AAAI_. 36(5) [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20465)
 
