@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hannah Sheahan"
   avatar           : "profile.png"
-  bio              : "AI Researcher/Engineer/Cognitive Scientist"
+  bio              : "AI Researcher/ Engineer/ Cognitive Scientist"
   location         : "London, UK"
   employer         : "Google DeepMind"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tM4sf80AAAAJ&view_op=list_works"
-  email            : #"hsheahan@deepmind.com"
+  email            : "hsheahan@deepmind.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
